@@ -197,8 +197,3 @@ python app/main.py
 
 MIT License
 
----
-
-# Author
-
-Your Name
